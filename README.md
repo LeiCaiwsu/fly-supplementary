@@ -2,4 +2,4 @@
 
 ## GEM results
 
-![model](./figures/confusion_matrix.pdf)
+![model](./figures/confusion_matrix.png)
