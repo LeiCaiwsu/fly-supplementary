@@ -1,4 +1,4 @@
-# fly-supplementary
+# Supplementary for Deep Low-Shot Learning for Biological Image Classification and Visualization from Limited Training Samples 
 
 ## Quantitative Analysis of Predictive Performance
 
