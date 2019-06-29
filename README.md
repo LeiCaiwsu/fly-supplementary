@@ -1,5 +1,9 @@
 # Supplementary for Deep Low-Shot Learning for Biological Image Classification and Visualization from Limited Training Samples 
 
+## Overview of Dataset
+
+![model](./figures/dataset.png)
+
 ## Quantitative Analysis of Predictive Performance
 
 ![model](./figures/confusion_matrix.png)
